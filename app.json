@@ -15,7 +15,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "Mʀ-Sʜᴀʙᴀɴ"
     }, 
 
     "OWNER_NUMBER": {
@@ -27,7 +27,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg"
+      "value": "https://files.catbox.moe/abrl88.jpg"
     }, 
       
     "PREFIX": {
@@ -156,4 +156,4 @@
     }
   ],
   "stack": "heroku-24"
-}
+    }
